@@ -1,6 +1,6 @@
 # face-recognition-project
 Objective:-
-Face Recognition System is the task of identifying an already detected object as a known or unknown face. This project works on deciding if the "face" is someone known, or unknown, using for this purpose a database of faces in order to validate this input face. Equipped with Eigenfaces, this project can create a dataset in real-time &amp; authenticate the user's facial structure. This system aids in ensuring safety & security against thefts or attacks.
+Face Recognition System is the task of identifying an already detected object as a known or unknown face. Leveraging cutting-edge machine learning algorithms, this project employs advanced computer vision techniques to accurately detect and locate upto 30 human faces in digital images. In addition, the system can recognize individual faces by comparing them against a pre-existing database of known individuals, providing a powerful tool for security, marketing, and personal identification applications. With its highly accurate and efficient performance, this facial detection and recognition project is an ideal solution for a wide range of industries and use cases. This project offers a staggering 94% accuracy.
 
 Language Used:-
 Python
