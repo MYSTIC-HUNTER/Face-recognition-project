@@ -6,7 +6,7 @@ Language Used:-
 Python
 
 Technology Used:-
-OpenCV, PyQt5, Keras, numpy
+Pandas,OpenCV, PyQt5, Keras, numpy, Tensorflow
 
 Scope of the project:-
 • physically accessing workspaces & similar facilities
